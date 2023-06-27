@@ -12,6 +12,7 @@ The records will be examined by this Python script, which will calculate each of
     The day and amount when profits increased by the most overall
 
     The day and amount when losses decreased most dramatically overall
+    
     #citation:
     1.https://careerkarma.com/blog/python-valueerror-invalid-literal-for-int-with-base-10/
     2.https://stackoverflow.com/questions/32554527/typeerror-list-indices-must-be-integers-or-slices-not-str
